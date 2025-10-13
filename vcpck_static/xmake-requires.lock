@@ -1,0 +1,10 @@
+{
+    __meta__ = {
+        version = "1.0"
+    },
+    ["windows|x64"] = {
+        ["vcpkg::yaml-cpp#31fecfc4"] = {
+            version = "latest"
+        }
+    }
+}
